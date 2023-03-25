@@ -104,3 +104,106 @@ font-size: 28px;
 main{
     margin-top: 100px;
 }
+
+
+@media screen and (max-width:390px ) {
+    
+ 
+    header{
+        width: auto;
+        display: inline-block;
+        padding: 2px;
+        margin-top: 5px;
+        height: auto;
+        font-weight: bold;
+        right: auto;
+        
+
+    }
+
+    main{
+        width: auto;
+        right: auto;
+    }
+
+    
+    .menu {
+       
+        display: inline-block;
+        font-size: 14px;
+        padding: 2px;
+        text-align: center;
+        margin-left: 2px;
+        margin-right: 4px;
+        right: auto;
+    }
+
+    .img1{
+    
+       position: relative;
+        width: 250px;
+        height: auto;
+      margin-left: 15px;
+      margin-top: 30px;
+      align-items: center;
+      right: auto;
+      left: 50px;
+    }
+
+    h1{
+        margin-top: 10px;
+        width: auto;
+        right: auto;
+        font-size: 30px;
+        margin-bottom: 4px;
+        text-align: center;
+    }
+
+    h2{
+        margin-top: 10px;
+        width: auto;
+        right: auto;
+        font-size: 14px;
+        margin-bottom: 4px;
+        text-align: center;
+       
+    }
+
+    p{
+      margin-top: 10px;
+        width: auto;
+        right: auto;
+       font-weight: bold;
+        font-size: 15px;
+        text-align: center;
+        margin-left: 4px;
+        
+      
+    }
+
+    .bnt1{
+      
+        color: white;
+        height: 40px;
+        width: 100px;
+        margin-left: 4px;
+        font-size: 15px;
+    }
+
+button{
+    color:  black;
+    font-size: 15px;
+    height: 50px;
+    width: 120px;
+    border: none;
+    margin-top: 25px;
+    margin-left: 130px;
+    
+}
+
+section{
+    margin-left: 4px;
+    padding: 4px;
+}
+
+}
